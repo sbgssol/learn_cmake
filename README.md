@@ -1,5 +1,5 @@
 # practice_cmake
-This repo is used to store all CMake practicing code/example
+This repo is used to store all CMake practicing code/examples
 
 ### Reference
 1. [ttroy50 /cmake-examples](https://github.com/ttroy50/cmake-examples) 
